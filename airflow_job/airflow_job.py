@@ -68,9 +68,7 @@ with DAG(
         },
         "environment_config": {
             "execution_config": {
-                "service_account": "77253674768-compute@developer.gserviceaccount.com",
-                "network_uri": "projects/acoustic-fusion-480217-b1/global/networks/default",
-                "subnetwork_uri": "projects/acoustic-fusion-480217-b1/regions/us-central1/subnetworks/default",
+                "service_account": "acoustic-fusion-480217-b1@appspot.gserviceaccount.com",  # Service account with necessary permissions
             }
         },
     }
